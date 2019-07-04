@@ -15,3 +15,11 @@ CodeForces代码（持续更新）
 题解看luogu吧，dfs和addn，ren数组的故事。
 
 https://www.luogu.org/problemnew/solution/CF274B
+
+---
+
+1156C
+
+开始想的是二分法，先排个序，每次找一个最小的大于$x+m$的数，但是发现这样会有问题。。。
+
+所以用贪心，尺取法，具体看代码吧。。。
